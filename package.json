@@ -10,7 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/Coder-Manthan/Realtime-Chat-App.git"
   },
-  "keywords": [ "Chat App", "Node",  "Socket.io", "Realtime" ],
+  "keywords": [
+    "Chat App",
+    "Node",
+    "Socket.io",
+    "Realtime"
+  ],
   "author": "Manthan",
   "license": "MIT",
   "bugs": {
@@ -22,6 +27,7 @@
     "socket.io": "^4.1.2"
   },
   "devDependencies": {
+    "eslint": "^7.26.0",
     "nodemon": "^2.0.7"
   }
 }
