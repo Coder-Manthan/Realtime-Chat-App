@@ -1,0 +1,27 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "description": "This is a simple Chat App made using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-Manthan/Realtime-Chat-App.git"
+  },
+  "keywords": [ "Chat App", "Node",  "Socket.io", "Realtime" ],
+  "author": "Manthan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coder-Manthan/Realtime-Chat-App/issues"
+  },
+  "homepage": "https://github.com/Coder-Manthan/Realtime-Chat-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
